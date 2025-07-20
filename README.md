@@ -201,5 +201,6 @@ creating **xmeta.Object** instance.
 #### xmeta.Object:__index(k)
 handling field of created instance.
   >- **@param k: any**
+  >- **@return any**
 
 
