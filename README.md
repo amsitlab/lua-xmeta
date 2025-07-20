@@ -57,7 +57,7 @@ assert(type(tostring) == "function")
 
 ```
 
-How to create class/type (meta-object)?
+How to create class/type (_meta-object_)?
 to creating meta-object we use __xmeta.Type(name: string, base: xmeta.Object, attrs: table)__
 eg:
 ```lua
