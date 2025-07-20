@@ -114,7 +114,7 @@ for more example see: [tests/](tests/)
 
 ### Install
 - simple
-just copy [xmeta/init.lua](lua/xmeta/init.lua) into your project.
+just copy [xmeta/init.lua](xmeta/init.lua) into your project.
 
 - luarocks
 For now xmeta not released on luarocks repositories
